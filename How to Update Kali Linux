@@ -1,0 +1,3 @@
+#You're using sudo when updating Kali Linux because updating system packages requires administrator (root) privileges.
+sudo apt update -y
+sudo apt upgrade -y
