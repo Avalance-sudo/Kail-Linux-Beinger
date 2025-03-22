@@ -1,9 +1,0 @@
-Project #1: Build a Keylogger
-A keylogger is a program that is used to capture the keystrokes from users keyboard. The user types on the infected 
-device, and then the keylogger sends that information to a 3rd party. While the program itself is not malicious 
-it can be used for malicious purposes so make sure that you get permisson from the compture before testing.  
-
-# First we need to create a keylooger inside Kaile we will add meterpreter shell, which well allow us to establish a 
-connection to another system in order to run the keylogger. 
-
-
